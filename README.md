@@ -109,4 +109,3 @@ This pattern library was developed by Gregory W. Douglas, Principal Integration 
 ---
 
 *Patterns are living documents. As Azure services evolve and new implementation experience is gained, these documents are updated to reflect current best practice. Check commit history for revision context.*
-A practitioner's reference library of enterprise integration patterns for API-first, event-driven, and hybrid cloud architectures on Microsoft Azure.
